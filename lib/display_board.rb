@@ -8,3 +8,5 @@ puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
 end
+
+display_board(5)=x

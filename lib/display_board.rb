@@ -9,4 +9,5 @@ puts "-----------"
 puts " #{board[7]}   | #{board[8]}   | #{board[9]}   "
 end
 
-display_board(board[5])="x")
+board[5]="x"
+display_board(board)

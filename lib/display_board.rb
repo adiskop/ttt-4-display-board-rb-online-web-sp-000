@@ -9,4 +9,4 @@ puts "-----------"
 puts "   |   |   "
 end
 
-display_board(board[5])=="x"
+display_board(board[5])="x"
